@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/student/BrentC/Checkpoints/pg-checkpoint-500"
+all_model_checkpoint_paths: "/home/student/BrentC/Checkpoints/pg-checkpoint-400"
+all_model_checkpoint_paths: "/home/student/BrentC/Checkpoints/pg-checkpoint-500"
